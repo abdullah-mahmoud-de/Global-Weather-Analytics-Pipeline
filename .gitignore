@@ -1,0 +1,10 @@
+# Ignore data folders
+data/bronze/*
+data/silver/*
+data/gold/*
+
+# Ignore Python cache and virtual environments
+__pycache__/
+venv/
+.env
+.DS_Store

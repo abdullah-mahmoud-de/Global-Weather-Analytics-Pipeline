@@ -1,0 +1,13 @@
+# API Ingestion
+requests
+
+# Data Processing & Transformation
+pandas
+pyarrow
+
+# SQL Analytics
+duckdb
+
+# Dashboard & Visualization
+streamlit
+plotly
